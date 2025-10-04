@@ -83,10 +83,11 @@ python
 
 3 Django возвращает список курсов (JSON)
 
-4 📚 Доступные курсы:
-• Django — ID: 1
-• Python — ID: 2
-• SQL — ID: 3
+4 Филтирация 
+- 📚 Доступные курсы:
+- • Django — ID: 1
+- • Python — ID: 2
+- • SQL — ID: 3
 
 🔎 Чтобы найти курс:
 — просто введите номер ID (например: 2)
@@ -96,12 +97,11 @@ python
 
 ## 🛠 Пример работы бота
 
-<img width="1273" height="819" alt="image" src="https://github.com/user-attachments/assets/383db026-7fcf-4f32-832a-54cbcbc222da" />
+<img width="1172" height="645" alt="image" src="https://github.com/user-attachments/assets/236cc2e5-5e32-46bf-bddb-1f4ee865ee45" />
 
-<img width="930" height="989" alt="image" src="https://github.com/user-attachments/assets/cfaa0cc0-73c3-4289-a8eb-6af03c7d27b8" />
+<img width="928" height="522" alt="image" src="https://github.com/user-attachments/assets/bf3bfa89-f97a-430f-884c-449524c2067f" />
 
-<img width="948" height="692" alt="image" src="https://github.com/user-attachments/assets/294f0bed-824e-4c6e-9f78-57e4174ef496" />
-
+<img width="928" height="513" alt="image" src="https://github.com/user-attachments/assets/220fac43-d37b-4080-8973-8c9d3f0a2a37" />
 
 📄 Лицензия
 Свободное использование в учебных целях.
